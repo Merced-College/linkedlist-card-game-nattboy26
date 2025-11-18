@@ -1,3 +1,7 @@
+//Nathanael Obrey
+//11-18-2025
+//Lab: Linked List Card Game
+
 //package cardGame;
 
 public class Card {
