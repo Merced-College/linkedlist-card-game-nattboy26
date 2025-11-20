@@ -1,3 +1,7 @@
+//Nathanael Obrey & James McKean
+//11-18-2025
+//Lab: Linked List Card Game
+
 //package linkedLists;
 //linkList2.java
 //demonstrates linked list

@@ -1,4 +1,4 @@
-//Nathanael Obrey
+//Nathanael Obrey & James McKean
 //11-18-2025
 //Lab: Linked List Card Game
 
